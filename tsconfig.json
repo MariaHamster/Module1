@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": ["ES2020", "DOM"],
+    "module": "commonjs",
+    "sourceMap": true
+  },
+  //"files": "/index.ts",
+  "exclude": [
+    "node_modules"
+  ]
+}
